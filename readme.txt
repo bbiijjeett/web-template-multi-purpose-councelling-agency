@@ -1,4 +1,4 @@
-Live Website : https://bijeet2001.github.io/web-template-multi-purpose-councelling-agency/
+Live Website : https://bbiijjeett.github.io/web-template-multi-purpose-councelling-agency/
 Key features
 -------------
 Twitter Bootstrap 3.3.1
